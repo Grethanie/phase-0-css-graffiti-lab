@@ -1,1 +1,18 @@
 /* write your override styles here */
+#tag-7 {
+  margin: 900px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  align-self: auto;
+}
+
+#tag-6 {
+  margin: 900px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  align-self: auto;
+}
